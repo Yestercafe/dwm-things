@@ -1,3 +1,6 @@
 dwm/dwm
 st/st
+dmenu/dmenu
+dmenu/stest
+*.tar.gz
 *.o
